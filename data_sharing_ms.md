@@ -20,9 +20,9 @@ Abstract
 --------
 
 Sharing data is increasingly considered to be an important part of the scientific process.
-This allows original results to be reproduced and new analyses to be conducted.
-While making data publicly available is the first step in allowing reuse, it is also crucial that the data be easy understand and use.
-We provide a description of nine simple ways to make it easy to reuse the data that you share.
+Making your data publicly available allows original results to be reproduced and new analyses to be conducted.
+While sharing your data is the first step in allowing reuse, it is also important that the data be easy understand and use.
+We describe nine simple ways to make it easy to reuse the data that you share and also make it easier to work with it yourself.
 
 Introduction
 ------------
@@ -32,14 +32,14 @@ The sharing of scientific data is beneficial because it allows replication of re
 In ecology and evolutionary biology, sharing occurs through a combination of formal data repositories like GenBank ([http://www.ncbi.nlm.nih.gov/genbank/](http://www.ncbi.nlm.nih.gov/genbank/)) and Dryad ([http://datadryad.org/](http://datadryad.org/)), and through individual and institutional websites.
 
 While data sharing is increasingly common and straightforward, much of the shared data is not easily reused because it does not follow best practices in terms of data structure, metadata, and licensing [@jones2006].
-This makes it more difficult to work with existing data and therefore makes the data less useful than it could be [@jones2006; @reichman2011]. 
+This makes it more difficult to work with existing data and therefore makes the data less useful than it could be [@jones2006; @reichman2011].
 
-Here we provide a list of 9 simple ways to make it easier to reuse the data that you share.
-Well organized data with good structure and documentation makes it easier for anyone to work with a dataset, including yourself.
-This is particularly true when returning to your own data for further analysis months or years after original collection when the details are no longer fresh.
-In addition, data sharing occurs frequently within a lab or research group among students or collaborators.
-Many hours can be saved during in-house collaborations by following these simple recommendations.
-Our recommendations focus on making your data understandable, easy to work with, and available to the wider community of scientists.
+The most usable data is understandable, easy to work with, and available to the wider community of scientists.
+Well organized data with good documentation makes it easier for anyone to work with the data, including you.
+This is particularly true when returning to your own data for further analysis months or years after you originally collected or analyzed it.
+In addition, data sharing often occurs within a lab or research group.
+Good data sharing practices make these in-house collaborations faster, easier, and less dependent on lab members who may have graduated or moved on to other things.
+Here we provide a list of nine simple ways to make it easier for others to reuse the data that you share and for you to use it yourself.
 
 1. Share your data
 ------------------
